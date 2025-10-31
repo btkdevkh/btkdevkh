@@ -1,1 +1,1 @@
-![Banner](https://github.com/btkdevkh/btkdevkh/blob/main/btkdevkh-banner.png)
+![Banner](https://github.com/btkdevkh/btkdevkh/blob/main/banner.png)
