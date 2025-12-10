@@ -1,8 +1,9 @@
-<h2 align="center">Hello World ! 👋</h2>
+<h2 align="">Hello World ! 👋</h2>
+<p>Je m'appelle Bunthoeun KONG, je suis développeur web basé en France, spécialisé en JavaScript et TypeScript, je conçois et développe des applications simples et utiles, que ce soit pour des projets personnels ou professionnels.</p>
 
-<h2 align="center">🚀 Stack Technologique</h2>
+<h2>🚀 Stack</h2>
 
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
