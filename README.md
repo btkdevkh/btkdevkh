@@ -32,4 +32,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Gemini-0E1C33?style=flat&logo=gemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Claudeai-D97757?style=flat&logo=Claudeai&logoColor=white" alt="Claudeai"/>
 </div>
