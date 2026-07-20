@@ -1,5 +1,5 @@
 <h2 align="">Hello World ! 👋</h2>
-<p>Je m'appelle Bunthoeun KONG, je suis développeur web basé en France, spécialisé en JavaScript et TypeScript, je conçois et développe des applications simples et utiles, que ce soit pour des projets personnels ou professionnels.</p>
+<p>Je m'appelle Bunthoeun KONG, je suis développeur web/mobile fullstack sur l'écosystème JavaScript basé en France, je conçois et développe des applications simples et utiles, que ce soit pour des projets personnels ou professionnels.</p>
 
 <h2>🚀 Stack</h2>
 
@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/React Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
 <img src="https://img.shields.io/badge/NextJS-333333?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/VueJS-42B883?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
 
@@ -32,6 +34,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Gemini-0E1C33?style=flat&logo=gemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Claudeai-D97757?style=flat&logo=Claudeai&logoColor=white" alt="Claudeai"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/>
 </div>
